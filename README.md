@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sweetdevin
 - 👀 I’m interested in python, javascript, data
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I use to be a professional ballet dancer
 
 <!---
 sweetdevin/sweetdevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
